@@ -1,4 +1,4 @@
-# FLotus Forever
+# Flotus Forever
 <h2>
 :warning: :construction_worker_man: Under Construction! :warning:
 </h2>
